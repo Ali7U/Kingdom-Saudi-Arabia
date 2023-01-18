@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.card-text {
+  font-size: 12px;
+}
+.card-body {
+  height: 200px;
+  text-overflow: clip;
+  overflow-x: hidden;
+  margin: 10px;
+}
+
+.row {
+  row-gap: 10px;
+}
+h3 {
+  width: 100%;
+  text-align: center;
+}
+
+.box{
+    margin: 20px auto;
+}
